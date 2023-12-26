@@ -1,18 +1,18 @@
 # Kotlin, SpringBoot 와 Openapi Generator를 활용한 MSA 구축 마스터코스
 
-## 1. 기본컨셉
-
-### 도서의 목적과 대상 독자 설명
-
-### 사용할 기술 스택 소개
-
-## 2. 마이크로서비스 디자인과 아키텍처
+## 1. 마이크로서비스 디자인과 아키텍처
 
 ### 마이크로서비스의 특징과 이점
 
 ### 서비스 디자인 원칙과 패턴
 
 ### 분산 시스템의 고려사항
+
+## 2. API와 REST API
+
+### API와 다양한 API 방식
+
+### REST 디자인 가이드
 
 ## 3. OpenAPI 소개 및 명세서 작성
 
@@ -25,6 +25,8 @@
 ## 4. Spring Boot와 Kotlin을 이용한 서버 구축
 
 ### Spring Boot와 Kotlin 소개
+
+### SpringBoot Rest API 기본 코드 작성 
 
 ### OpenAPI Generator를 이용한 서버 코드 생성
 
